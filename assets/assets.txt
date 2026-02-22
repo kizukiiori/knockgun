@@ -1,17 +1,24 @@
 d:assets:assets:0:application/unknown:1
 i:assault rifle.gif:assault rifle-f3933a10e42d5dd40d8e614e3970fbca.gif:9796:image/gif:1
-t:assets.txt:assets-40056a69dcd0b8edb020e4106cabb74d.txt:280:text/plain:1
+t:assets.txt:assets-6213d82cc9347ea3cb6e277bc3f56810.txt:383:text/plain:1
 a:Boss Room Lobby.mp3:Boss Room Lobby-141d39bc23bf3d1cbe4a4c4dbceaabbc.mp3:5341595:audio/mpeg:1
+t:default.fnt:default-2b179aaa833a1a6d99e077c15bb7a364.fnt:56914:application/unknown:1
 a:finntastico-big-explosion-152507.mp3:finntastico-big-explosion-152507-6780b3e002b4b93c8dc2154dfa922e4c.mp3:25913:audio/mpeg:1
+t:font-small.fnt:font-small-04b4a85e9d1cde70b3e209231c3ca1c1.fnt:50454:application/unknown:1
 a:freesound_community-explosion-91872.mp3:freesound_community-explosion-91872-f75130577e71207efa3db979eea32887.mp3:60186:audio/mpeg:1
 a:freesound_community-knife-slice-41231.mp3:freesound_community-knife-slice-41231-78da7889dcbf44874ee0bbbf55342fe5.mp3:19680:audio/mpeg:1
 a:freesound_community-single-pistol-gunshot-32-101873.mp3:freesound_community-single-pistol-gunshot-32-101873-7dd54fd32850168eb11c7204e30541fb.mp3:36000:audio/mpeg:1
 i:grenade.png:grenade-fe5dbcd74f1875c0bca361454de52ec1.png:1815:image/png:1
+b:hs_err_pid17368.log:hs_err_pid17368-dfb8c5b999ad0ea8cd986da6868c3a3f.log:117316:application/unknown:1
+b:hs_err_pid24560.log:hs_err_pid24560-b2469cbbf444ba908bd6c1dac4e7666c.log:98093:application/unknown:1
 i:knife.png:knife-20491a3ac2cbdf5f6e2d6e20e9bc3b57.png:1107:image/png:1
 i:libgdx.png:libgdx-6ce2ac53bc1738a1e5ac95f05dceb4a5.png:2456:image/png:1
 i:pistol.gif:pistol-3e3c069a0b839c14104cd7c46d243f63.gif:3348:image/gif:1
 i:shotgun.gif:shotgun-c10aa53a4c3ab71e651671ca6d01ac13.gif:10665:image/gif:1
 i:sniper.png:sniper-58517766d0093c426029df52707eabe7.png:2143:image/png:1
+t:uiskin.atlas:uiskin-31e3615eb5d49cacf426339bbf9e6d32.atlas:10888:application/unknown:1
+t:uiskin.json:uiskin-603b902c045f153483a88d90b9d05ad1.json:5836:application/json:1
+i:uiskin.png:uiskin-da71b41123f0a8b2be752f91b1f041b4.png:48095:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
